@@ -1,4 +1,4 @@
-##Project Overview
+##Project Overview##
 This project is a simple tool that lets you talk to a database using everyday language instead of code.
 
 What it does: It takes a question you type (like, "How many students have over 90 marks?") and automatically turns it into a technical database command (SQL query).
